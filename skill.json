@@ -1,0 +1,17 @@
+{
+  "name": "genpark-hnsw-hierarchical-navigable-small-world-skill",
+  "version": "1.0.0",
+  "description": "Hierarchical Navigable Small World (HNSW) vector search graph engine with skip-list layered routing, greedy nearest neighbor search, and cosine distance.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hnsw",
+    "vector-search",
+    "approximate-nearest-neighbors",
+    "vector-database",
+    "embeddings"
+  ],
+  "dependencies": []
+}
